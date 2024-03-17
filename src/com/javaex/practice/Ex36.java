@@ -17,6 +17,7 @@ public class Ex36 {
 		System.out.print("동전의 총합은 ");
 		System.out.print(500*fivhun+100*hun+50*fif+10*ten);
 		System.out.print("원 입니다.");
+		sc.close();
 		
 				
 	}
